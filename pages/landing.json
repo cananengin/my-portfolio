@@ -1,0 +1,33 @@
+{
+    "hero": {
+        "greeting": "Hello, I am Canan",
+        "introduction": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates maxime numquam rem quasi eum soluta debitis deleniti laborum minus, facere eveniet! Autem ab quam sequi nesciunt quibusdam, officiis blanditiis dicta!",
+        "img_profile": "https://lh3.googleusercontent.com/cUZBOHL1HBFj5No_2llxYEE41CfOGDpgjor_jjfUT5ZWvTx1rAuV1yztvcyrnpS0AtzRWuALAJmaY-xRvE7mtRznfA",
+        "img_background": "https://lh3.googleusercontent.com/PdBkoCnHHSVIv_0MTHH0Qxv6ckzq3DUaSl81SwE-w2lV8F52a7ldY1aaRNFWhSVYv7MGRpkBSrxqCh3uwh65uFwWL1w"
+        
+    },
+    "gallery": {
+        "img_1": "https://lh3.googleusercontent.com/6zeQ5R0PtDnGGRin73vxqENxMF5zuESTFEXH98AeiHn_Et4HJo6E_nzWuwgnRPOLhI0rqI7BGQXvsyzIDRqzBFrgfA",
+        "img_2": "https://lh3.googleusercontent.com/AFOZsHkV4Wz1qYKGoNF18gBeMF4q6I78HydCjmBk1fd8OLGXDvh88ZmwjvTuvgxVDiaDg0-HkM5NV9WaQ9hxP3F2hw8",
+        "img_3": "https://lh3.googleusercontent.com/L3Xkm77jLXy_FfsO_3C5H9Mcu3Z8QwbTdTWDggw6xgS5Um5Xtg9h56GOBdeJ-8Dp1zvM3h1EyOgVgy45CSUcAfSm",
+        "img_4": "https://lh3.googleusercontent.com/IHd860xF3eXnK2coqtTnsMD0ciXK-BMQ5rLgK320uslofVP-bnFnXix6P35ChHKWhXWGSn798CGY4ZRXsMAaU00V2g",
+        "img_5": "https://lh3.googleusercontent.com/zvs4i1VhDFY6t6dIuOKFn-g_SBWySTAp0v4Ye5Ube6R8vJlJABUMfkvAIR3oIsd1n_8h6c_YN-HzPgm85UAUv9IpaA",
+        "img_6": "https://lh3.googleusercontent.com/J6N5tZLwrnYiQpxlr5CP01symJcenAEY1LL0bhMTrkfqjpKmPWo9KQWUv4f9J3WWxedgCgxdvVqr3OQLKf3LiRqC43I"
+    },
+    "image_profile": "https://i4.hurimg.com/i/hurriyet/75/750x422/5ddb6746d3806c0a54010707.jpeg",
+    "greeting": "hello, I am Canan",
+    "introduction": "i am a web developer",
+    "languages": [{
+            "name": "javascript",
+            "year": 5
+        },
+        {
+            "name": "python",
+            "year": 4
+        },
+        {
+            "name": "swift",
+            "year": 3
+        }
+    ]
+}
